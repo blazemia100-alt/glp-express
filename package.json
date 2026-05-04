@@ -1,0 +1,13 @@
+{
+  "name": "glp-express",
+  "version": "1.0.0",
+  "description": "GLP Express - Telehealth Fulfillment Landing Page",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static HTML build - no build step required'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.15"
+  }
+}
